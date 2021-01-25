@@ -1,16 +1,16 @@
 # leadmanager
 ## Backend Command
-*mkdir lead_manager_react_django
-*cd lead_manager_react_django
-*pip install pipenv
-*pipenv shell
-*pipenv install django djangorestframework django-rest-knox
-*django-admin startproject leadmanager
-*cd leadmanager
-*python manage.py startapp leads
-*python manage.py makemigrations leads
-*python manage.py migrate
-*python manage.py runserver
+* mkdir lead_manager_react_django
+* cd lead_manager_react_django
+* pip install pipenv
+* pipenv shell
+* pipenv install django djangorestframework django-rest-knox
+* django-admin startproject leadmanager
+* cd leadmanager
+* python manage.py startapp leads
+* python manage.py makemigrations leads
+* python manage.py migrate
+* python manage.py runserver
 
 ## Frontend Command (REACT)
 --npm init -y
